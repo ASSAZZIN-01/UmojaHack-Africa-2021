@@ -19,7 +19,6 @@ The objective of this challenge is to create a machine learning model that will 
 
 ## [On the Leaderboard](https://zindi.africa/hackathons/umojahack-africa-2021-2-sendy-challenge-intermediate/leaderboard)
 
-Look for the team name : **adatnomerTN** <br>
 Rank : 1/266 
 ## Authors
 
