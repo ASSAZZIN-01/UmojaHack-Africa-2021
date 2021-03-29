@@ -28,7 +28,7 @@ Rank : 1/463
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
 |Azer KSOURI |[@ASSAZZIN](https://zindi.africa/users/ASSAZZIN)      |[@Az-Ks](https://github.com/Az-Ks)        |
-|Saifeddine Azzabi     |[@drcod](https://zindi.africa/users/azzabinho001)  |[@azzabi]()|
+|Saifeddine Azzabi     |[@azzabinho001](https://zindi.africa/users/azzabinho001)  |[@azzabi]()|
 
 
 </div>
