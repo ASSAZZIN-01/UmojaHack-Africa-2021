@@ -1,4 +1,4 @@
-# UmojaHack Africa 2022 #2: Sendy- Challenge Intermediate
+# UmojaHack Africa 2022 #2: Sendy - Delivery Rider Response
 
 ## Brief Description
 
